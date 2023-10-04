@@ -38,25 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # internal apps
-    'account_module',
-    'home_module',
-    'product_module',
-    'contact_module',
-    'site_module',
-    'article_module',
-    'user_panel_module',
-    'order_module',
-    'admin_panel',
-    'polls',
-    'ticket_module',
     'chat_module',
     # external apps
-    'django_render_partial',
-    'sorl.thumbnail',
-    'jalali_date',
-    'widget_tweaks',
-    'simple_history',
-    'django.contrib.humanize',
     'channels',
 
 ]
